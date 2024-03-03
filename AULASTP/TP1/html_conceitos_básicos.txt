@@ -1,0 +1,7 @@
+A extrutura de um ficheiro do tipo .html:
+Inicia-se com a tag `<!DOCTYPE html>` que indica ao navegador que o ficheiro é do tipo html.
+De seguida, temos a tag `<html>` que indica o início do documento html e termina na ultima linha </html>
+O conteúdo do cabeçalho do documento html é definido entre as tags `<head>` e `</head>`. 
+O conteúdo inserido entre <title> e </title> é o título da página que aparece na barra de título do navegador.
+O conteúdo apresentado ao visitante do navegador é corpo do documento html é definido entre as tags `<body>` e `</body>`.
+É de notar que todos os elemtos e atributos são escritos em letras minúsculas.

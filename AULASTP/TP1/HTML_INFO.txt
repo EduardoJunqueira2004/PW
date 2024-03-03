@@ -1,0 +1,50 @@
+HTML é uma linguagem de?
+A: Programação
+B: Marcação
+C: Estilização
+D: Banco de dados
+HTML é importante pois? 
+A: É uma linguagem de programação  da web, que permite a criação de sites e aplicativos.
+B: É uma linguagem de programação que permite a criação de jogos.
+C: É uma linguagem de programação que permite a criação de aplicativos.
+D: É uma linguagem de programação que permite a criação de banco de dados.
+O HTML é uma linguagem de marcas: ele usa tags para definir diferentes partes do conteúdo.
+Quais são as tags mais utilizadas no HTML?
+A: <p> <h1> <a> <img> <ul> <ol> <li> <table> <tr> <td> <th> <form> <input> <button> <select> <option> <label> <span> <div> <br> <hr> 
+
+Qual é a tag de abertura e fechamento de um parágrafo?
+A: <p> </p>
+
+Qual é a tag de abertura e fechamento de um título?
+A: <h1> </h1>
+
+Qual é a tag de abertura e fechamento de um link?
+A: <a> </a>
+
+Qual é a tag de abertura e fechamento de uma imagem?
+A: <img> </img>
+Qual é a tag de abertura e fechamento de uma lista não ordenada?
+A: <ul> </ul>
+Qual é a tag de abertura e fechamento de uma lista ordenada?
+A: <ol> </ol>
+Qual é a tag de abertura e fechamento de um item de lista?
+A: <li> </li>
+Qual é a tag de abertura e fechamento de uma tabela?
+A: <table> </table>
+Qual é a tag de abertura e fechamento de uma linha de tabela?
+A: <tr> </tr>
+Qual é a tag de abertura e fechamento de uma célula de tabela?
+A: <td> </td>
+Qual é a tag de abertura e fechamento de um cabeçalho de tabela?
+A: <th> </th>
+Qual é a tag de abertura e fechamento de um formulário?
+A: <form> </form>
+Qual é a tag de abertura e fechamento de um campo de entrada?
+A: <input> </input>
+Qual é a tag de abertura e fechamento de um botão?
+A: <button> </button>
+
+Em html temos atributos e elementos diz-me o que é um atributo e um elemento?
+A: Atributo é uma propriedade que é aplicada a um elemento. Elemento é uma tag que é usada para marcar o conteúdo.
+Exemplos de elementos: <p> <h1> <a> <img> <ul> <ol> <li> <table> <tr> <td> <th> <form> <input> <button> <select> <option> <label> <span> <div> <br> <hr>
+Exemplos de atributos: href, src, alt, width, height, type, value, name, id, class, style, action, method, for, checked, selected, disabled, readonly, placeholder, required, min, max, step, autocomplete, autofocus, multiple, pattern, novalidate, form, target, rel, title, lang, dir, tabindex, accesskey, hidden, draggable, contenteditable, spellcheck, role, aria-*, data-*
