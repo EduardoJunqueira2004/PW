@@ -1,0 +1,46 @@
+/* estilo.css */
+
+/* Defina o estilo para o corpo do documento meuDia.html */
+
+body {
+    background-image: url("MarineBlueM2 Mac.png");
+    background-size: cover;
+  background-position: right top;
+  }
+  
+h1{
+  background-color: green;
+}
+div {
+    background-color: green;
+    opacity: 0.3;
+  }
+p {
+  background-color: yellow;
+  font-size: 14pt;
+}
+/* Defina o estilo para pores a letra toda em branca 
+ */
+h1 {
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+/* Defina o estilo para a tabela */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  color: white;
+  font-size: 18px;
+  text-align: left;
+  /*centra a tabela*/
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    color: white;
+    text-align: center;
+    padding: 5px;
+  }
+
+
