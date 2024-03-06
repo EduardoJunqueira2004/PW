@@ -15,4 +15,14 @@ table {
     background-color: 
     yellow;  text-align: 
     right;}
-    
+     /*  caixa simples conceito básico */
+     .caixa {
+        width: 200px;
+        height: 200px;
+        background-color: lightblue;
+        border: 2px solid blue;
+        padding: 20px;
+        text-align: center;
+        margin: 20px;
+        float: left;
+     }
