@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+footer {
+    color: #141313; /* Cor do texto no rodapé */
+    padding: 100px; /* Espaçamento interno do rodapé */
+    text-align: left; /* Centralizar o texto no rodapé */
+    position: fixed; /* Fixar o rodapé na parte inferior da janela */
+    left: 0;
+    bottom: 0;
+    width: 100%; /* Largura total */
+}
