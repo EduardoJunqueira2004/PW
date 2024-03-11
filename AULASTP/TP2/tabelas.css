@@ -25,4 +25,7 @@ table {
         text-align: center;
         margin: 20px;
         float: left;
+        top-margin: 20px;
+         left-margin: 20px;
+         
      }
