@@ -1,0 +1,6 @@
+/* Estilos personalizados para centrar imagens */
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
