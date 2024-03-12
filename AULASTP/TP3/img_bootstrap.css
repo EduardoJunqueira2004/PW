@@ -1,6 +1,59 @@
-/* Estilos personalizados para centrar imagens */
+/* Estilos personalizados para centrar imagens  exemplos*/
 .img-center {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+/* Configurações de texto */
+.text-bold {
+    font-weight: bold;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-lowercase {
+    text-transform: lowercase;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+/* Configurações para imagens exemplos*/
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.img-rounded {
+    border-radius: 50%;
+}
+
+.img-thumbnail {
+    padding: 4px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
 }
