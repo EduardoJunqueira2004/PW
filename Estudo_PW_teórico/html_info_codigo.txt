@@ -1,0 +1,7 @@
+HTML (HyperText Markup Language) é a linguagem de marcação padrão para criar páginas e aplicações web. 
+É uma das tecnologias fundamentais da web, juntamente com CSS e JavaScript.
+
+A principal função do HTML é estruturar o conteúdo na web. 
+Ele faz isso através de "tags" de marcação que definem diferentes tipos de conteúdo, incluindo cabeçalhos, parágrafos, links, imagens, listas, tabelas, formulários e muito mais.
+
+Em resumo, o HTML é usado para criar a estrutura e o conteúdo de uma página web, enquanto o CSS é usado para controlar a aparência do conteúdo e o JavaScript é usado para adicionar interatividade.

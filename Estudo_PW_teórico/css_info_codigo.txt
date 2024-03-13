@@ -1,0 +1,7 @@
+CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para definir a aparência e o layout de documentos HTML. 
+Ela permite que você controle a cor, a fonte, o tamanho e outros aspectos visuais de elementos HTML em uma página da web.
+
+A principal função do CSS é separar o conteúdo (HTML) da apresentação (estilo). 
+Isso significa que você pode criar um arquivo CSS separado e vinculá-lo ao seu documento HTML, permitindo que você faça alterações no estilo de várias páginas da web de uma só vez, sem precisar modificar cada página individualmente.
+
+Em resumo, o CSS permite que você personalize a aparência de seus elementos HTML, tornando suas páginas da web mais atraentes e profissionais.
