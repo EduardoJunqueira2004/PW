@@ -1,0 +1,7 @@
+Explica-me javascript dá-me as principais vantagens de usar e as principais desvantagens de usar javascript.
+JavaScript é uma linguagem de programação amplamente utilizada para desenvolvimento web. 
+Ela permite adicionar interatividade e dinamismo aos sites, tornando-os mais atraentes e funcionais. 
+Algumas das principais vantagens de usar JavaScript incluem sua ampla compatibilidade com navegadores, sua facilidade de aprendizado e sua capacidade de manipular elementos HTML e CSS em tempo real. 
+No entanto, também existem algumas desvantagens, como a possibilidade de erros devido à tipagem dinâmica e a necessidade de cuidados extras para garantir a segurança do código.
+
+
