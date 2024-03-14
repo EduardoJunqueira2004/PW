@@ -1,0 +1,36 @@
+img {
+    max-width: 165%; /* Garante que a imagem não ultrapasse a largura máxima do seu contêiner */
+    max-height: 165%; /* Garante que a imagem não ultrapasse a altura máxima do seu contêiner */
+  }
+  .custom-button {
+    padding: 10px 40px; /* Espaçamento interno */
+    background-color: #f5f8f9; /* Cor de fundo azul */
+    color: #080808; /* Cor do texto branco */
+    border: 2px solid #040404; /* Borda sólida azul */
+    border-radius: 5px; /* Borda arredondada */
+    cursor: pointer; /* Cursor de seta ao passar por cima */
+    transition: background-color 0.3s, color 0.3s; /* Transição suave */
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    padding: 5px;
+  }
+  /* Defina o estilo para a tabela */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    /*centra a tabela*/
+      margin-left: auto;
+      margin-right: auto;
+  }
+  h2 {
+      color: white;
+      text-align: center;
+      padding: 5px;
+    }
+  
