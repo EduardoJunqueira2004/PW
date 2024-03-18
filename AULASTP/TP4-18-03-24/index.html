@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript example</title>
+    
+</head>
+<body>
+    <div>
+        <button onclick="sayMagicWord();">Say the Magic Word</button>
+        <script type="text/javascript" src="please.js"></script>
+    </div>
+    
+    <button onclick="sayMagicWord();">Diz as palavras mágicas!</button>
+    <p id="disse">O que dizes?</p>
+   
+    <script>
+      function sayMagicWord() {
+        var paragrafo = document.getElementById("disse");  
+   paragrafo.innerHTML = "POR FAVOR!";
+      }
+    </script>
+    <p id="demo">O que dizes?</p>
+    <script>
+      var x = 5;
+      var y = 6;
+      var z = x + y;  document.getElementById("demo").innerHTML = z;
+    </script>
+<ul>
+    <li>aaa</li>
+    <li>aaa</li>
+    <li>aaa</li>
+    <li>aaa</li>
+    <li>aaa</li>
+    <li>aaa</li>
+    <li>aaa</li>
+    <li>aaa</li>
+</ul>
+<script>
+  // Seleciona todos os elementos <p>
+  var paragrafos = document.getElementsByTagName("li");
+  // Itera sobre a coleção de elementos <p> e modifica seu conteúdo
+  for (var i = 0; i < paragrafos.length; i++) {
+      paragrafos[i].innerHTML = i+1 + " - Este parágrafo foi modificado usando js!";
+  }
+  
+</script>
+<script type="text/javascript" src="please.js">
+    function myFunction(str) {
+   console.log(str);
+  }</script>
+
+<script>
+    var idade = 10 + 5;
+    var eMaior = idade > 18;
+    var resultado = (10 === "10") || (5 !== 3);
+    console.log("Idade:", idade);
+    console.log("É maior de 18 anos:", eMaior);
+    console.log("Resultado:", resultado);
+    alert(resultado);
+    if (idade >= 18){
+        console.log("É maior de 18 anos");
+    } else {
+        console.log("É menor de 18 anos");
+    }
+    var hora = 14;
+if (hora < 12) {
+    console.log("Bom dia!");
+} else if (hora < 18) {
+    console.log("Boa tarde!");
+} else {
+    console.log("Boa noite!");
+}
+var diaSemana = 3; var nomeDia;
+switch (diaSemana) {
+    case 1:
+        nomeDia = "Segunda-feira";
+        break;
+    case 2:
+        nomeDia = "Terça-feira";
+        break;
+    case 3:
+        nomeDia = "Quarta-feira";
+        break;
+    case 4:
+        nomeDia = "Quinta-feira";
+        break;
+    case 5:
+        nomeDia = "Sexta-feira";
+        break;
+    case 6:
+    case 7:
+        nomeDia = "Fim de semana";
+        break;
+    default:
+        nomeDia = "Dia inválido";
+}
+console.log("Hoje é " + nomeDia);
+
+var frutas = ["Maçã", "Banana", "Laranja", 
+"Morango"];
+frutas.forEach(function(fruta, indice) {
+    console.log("Índice " + indice + ": " + 
+fruta);
+});
+function saudacao(nome) {
+    console.log("Olá, " + nome + 
+"!");
+}
+saudacao("Maria");
+
+// Chamada da função
+saudacao();
+// Função com parâmetros padrão
+function saudacao(nome = "visitante") 
+{
+    console.log("Olá, " + nome + "!");
+}
+// Chamada da função sem argumentos
+saudacao(); // Saída: Olá, visitante!
+// Chamada da função com argumento
+saudacao("João"); // Saída: Olá, João!
+
+//Array pessoa que tem um nome idade e cidade same struct
+var pessoa = {
+    nome: "João",
+    idade: 30,
+    cidade: "São Paulo"
+};
+var numeros = [1, 2, 3, 4, 5];
+console.log(pessoa.nome); // Saída: João
+console.log(numeros[0]); // Saída:
+
+// Definição de um array com alguns elementos
+var frutas = ["Maçã", "Banana", "Laranja", "Morango"];
+// Aceder a elementos do array
+console.log(frutas[0]); // Saída: Maçã
+console.log(frutas[2]); // Saída: Laranja
+// Alterando um elemento do array
+frutas[1] = "Abacaxi";
+// Adicionando um elemento ao final do array
+frutas.push("Pera");
+// Removendo o último elemento do array
+frutas.pop();
+// Iterando sobre um array
+
+</script>
+</body>
+</html>

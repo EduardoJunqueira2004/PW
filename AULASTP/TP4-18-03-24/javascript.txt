@@ -1,0 +1,30 @@
+Javascript:
+É uma linguagem de programação de alto nível, dinâmica e interpretada. 
+É amplamente utilizada para adicionar interatividade e dinamismo às páginas 
+web, além de ser utilizada também em ambientes de desenvolvimento de 
+servidor, como o Node.js.
+Foi criado em 1995 é a linguagem de programação mais popular no  
+desenvolvimento Web.
+É suportada por todos os browsers
+Como exemplos da boa utilização do JavaScript temos o Gmail, Google Maps e 
+Google Docs.
+O nome "JavaScript" vem dos nomes
+Java e JavaScript são duas linguagens de programação completamente
+diferentes, tanto em conceito quanto em sintaxe. A única coisa que elas têm
+em comum é a palavra "Java" no nome.
+
+Server-side code - Corre no servidor antes da página ser enviada
+Client-side code - Corre dentro do browser do cliente quando a página é 
+carregada e visualizada
+
+Para cada ancontecimento podemos progamar algo com javascript
+
+4 Elementos:
+// Procurar um elemento pelo atributo id
+        document.getElementById("idElemento");
+        // Procurar elementos pelo tag
+        document.getElementsByTagName("tagElemento");
+        // Procurar elementos pelo atributo name
+        document.getElementsByName("nameElemento");
+         // Procurar elementos pelo atributo name
+         document.getElementsByClass("nomeClass");
