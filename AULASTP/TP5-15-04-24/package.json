@@ -1,25 +1,27 @@
 {
-  "name": "teste1",
+  "name": "web-service-oco",
   "version": "1.0.0",
-  "description": "Primeiro teste de um api",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \\*Error: no test specified\\* && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LourencoGarces/AW-30384.git"
+    "url": "git+https://github.com/alfZone/webServiceOco.git"
   },
   "keywords": [
     "ws",
-    "primeiro"
+    "api",
+    "js"
   ],
-  "author": "Lourenço Almeida Garcês Ribeiro da Silva",
+  "author": "António Lira Fernandes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LourencoGarces/AW-30384/issues"
+    "url": "https://github.com/alfZone/webServiceOco/issues"
   },
-  "homepage": "https://github.com/LourencoGarces/AW-30384#readme",
+  "homepage": "https://github.com/alfZone/webServiceOco#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",

@@ -2,7 +2,7 @@ const fs = require('fs');
 
 //devolve todos os carros
 exports.getAll = async (req, res) => {
-    return res.send("ok");
+    return res.send("Todos os carros");
 }
 
 //devolve o carro com o id
@@ -34,5 +34,6 @@ exports.delete = async (req, res) => {
     //obter o id do carro
     const id = req.params.id;
     //devolve ok
-    return res.send("ok");
+    return res.send("Carro " + id + " apagado!");
 }
+
